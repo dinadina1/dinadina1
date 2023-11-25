@@ -1,4 +1,4 @@
-<body style="background-image: url('https://unsplash.com/photos/blue-skies-filled-of-stars-W8KTS-mhFUE');"></body>
+![Alt image](https://unsplash.com/photos/blue-skies-filled-of-stars-W8KTS-mhFUE)
 <h1 align="center">Hi there👋, I'm Dinakaran</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
