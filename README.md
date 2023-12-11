@@ -1,4 +1,4 @@
-<div style="background-image: url('.//laptop background.avif');">
+<div style="background-image: url('laptop background.png');">
 <h1 align="center">Hi 👋, I'm Dinakaran</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
