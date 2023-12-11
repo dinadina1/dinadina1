@@ -1,3 +1,4 @@
+<div style="background-image: url('.//laptop background.avif');">
 <h1 align="center">Hi 👋, I'm Dinakaran</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
@@ -21,3 +22,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dinadina1&show_icons=true&locale=en" alt="dinadina1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dinadina1&" alt="dinadina1" /></p>
+</div>
