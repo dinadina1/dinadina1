@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Dinakaran</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-<img src="./images/laptop.png">
+<img src="https://images.pexels.com/photos/7974/pexels-photo.jpg?cs=srgb&dl=pexels-life-of-pix-7974.jpg&fm=jpg">
 
 - 🌱 I’m currently learning **Full Stack Development**
 
